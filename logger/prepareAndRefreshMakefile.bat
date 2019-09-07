@@ -1,0 +1,1 @@
+C:\Python27\python.exe CubeMX2Makefile.py C:\_VIRTUAL_\logger_01\firmware\trunk\logger
